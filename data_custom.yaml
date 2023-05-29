@@ -1,0 +1,6 @@
+train: C:\Users\alifi\Documents\Binus classes\Sem 4\Final Project\ML\train
+val: C:\Users\alifi\Documents\Binus classes\Sem 4\Final Project\ML\val
+
+nc: 3
+
+names: ["no damage", "minor damage", "major damage"]

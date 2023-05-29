@@ -1,0 +1,3 @@
+no damage
+minor damage
+major damage
